@@ -1,4 +1,4 @@
-//dictionary.cpp for Assignment 6
+//dictionary.cpp
 
 //include statements
 #include <iostream>
